@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppsNews</string>
+    <string name="username">UserName</string>
+    <string name="input_username">Input username</string>
+    <string name="password1">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="create_new_account">Create new account</string>
 </resources>
